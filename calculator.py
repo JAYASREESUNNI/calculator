@@ -1,4 +1,4 @@
-%%writefile calculator.py
+
 import streamlit as st
 
 st.title("🧮 Simple Calculator")
